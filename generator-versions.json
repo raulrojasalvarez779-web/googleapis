@@ -20,9 +20,9 @@
     "sha": null
   },
   "python": {
-    "version": "1.32.0",
+    "version": "1.34.1",
     "commit": null,
-    "sha": "d5e3a1d73728bd8007059a50412ac8161d4d96b7656295ff43c0b1f3b35b62b5"
+    "sha": "044c58a669be496f63de49b26b63b9d2cd6790007dffe711e8ad7579a372bcf2"
   },
   "ruby": {
     "version": "0.48.1",
